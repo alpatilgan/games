@@ -8,8 +8,6 @@ canvas_width = 600
 canvas_height = 500
 
 
-
-
 def new_game():
     canvas = Canvas(window, width=canvas_width, height=canvas_height)
     canvas.pack()
